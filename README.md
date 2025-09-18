@@ -1,5 +1,7 @@
 # Snowflake Definitive Guide
 
+*Last updated: September 18, 2025*
+
 This repository contains SQL scripts, data files, and resources for learning and mastering Snowflake, based on the "Snowflake Definitive Guide". Each chapter folder includes example scripts and exercises to help users understand Snowflake features, best practices, and advanced topics.
 
 ## Structure
